@@ -1,0 +1,34 @@
+.biggestContainer {
+  background-color: #F5F7FA;
+  padding: 20px 20px;
+}
+
+/* 上半部分 */
+.header {
+  height: 130px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.usernameContainer {
+  height: 90px;
+  background-color: #0086F6;
+  font-size: 24px;
+  color: white;
+  line-height: 90px;
+  vertical-align: middle;
+}
+
+.assetsContainer {
+  height: 40px;
+  padding-left: 40px;
+  line-height: 40px;
+  color: #0F294D;
+}
+
+.assets {
+  width: 120px;
+}
+.button {
+  color: #0F294D;
+}

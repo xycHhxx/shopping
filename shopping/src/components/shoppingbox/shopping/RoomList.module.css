@@ -1,0 +1,34 @@
+.breakfast {
+  margin-right: 250px;
+  color: #06AEBD;
+  font-size: 14px;
+  border-bottom: 2px dotted #06AEBD;
+}
+
+.priceContainer {
+  width: 100px;
+  margin-right: 15px;
+  padding-bottom: 5px;
+}
+.prePrice {
+  margin-right: 10px;
+  font-size: 15px;
+  color: #455873;
+  text-decoration: line-through;
+}
+.price {
+  font-size: 23px;
+  font-weight: bold;
+  color:#0086F6 ;
+}
+
+.button {
+  width: 80px;
+  height: 40px;
+  background-color: #FF9500;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  border: 0px;
+  border-radius: 2px;
+}

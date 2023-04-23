@@ -1,0 +1,43 @@
+#components-form-demo-normal-login .login-form {
+  max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+#components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+  float: left;
+}
+#components-form-demo-normal-login .login-form-button {
+  width: 100%;
+}
+
+.containerBigget{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:url('./粉色海.jpg') ;
+  background-size: cover;
+
+}
+
+.formContainer {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 500px;
+  height: 300px;
+  margin-top: -150px;
+  margin-left: -250px;
+  padding: 20px;
+  background-color: rgba(0,0,0,0.3);
+  
+}
+
+.title {
+  font-size: 19px;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}

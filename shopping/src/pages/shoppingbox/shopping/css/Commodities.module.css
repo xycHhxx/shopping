@@ -1,0 +1,45 @@
+.titleContainer {
+  float: left;
+  font-size: 20px;
+}
+
+
+.middleContainer {
+  margin-top:35px;
+  margin-bottom: 25px;
+}
+
+.score {
+  width: 50px;
+  height: 25px;
+  font-size: 17px;
+  text-align: center;
+}
+
+.prePrice {
+  float: right;
+  font-size: 16px;
+  color: #666666;
+  text-decoration: line-through;
+}
+
+.comment {
+  float: left;
+  font-size: 15px;
+  color: #666666;
+}
+
+.price {
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  color: #0086F6;
+}
+
+
+/* 分页 */
+.paginationContainer {
+  margin-top: 20px;
+  padding:0 auto;
+  text-align: center;
+} 

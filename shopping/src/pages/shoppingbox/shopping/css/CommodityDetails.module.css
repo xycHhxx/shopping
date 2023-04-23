@@ -1,0 +1,80 @@
+.topTitle {
+  margin: 0 0 10px 5px;
+  font-size: 20px;
+}
+.backIcon{
+  margin-right: 5px;
+  color: black;
+}
+
+/* 中部，<hr/>以下 */
+.imgAndDesContainer {
+  display: flex;
+  margin-top: 20px;
+  padding: 0 10px 0 20px;
+}
+
+.DescriptionsContainer {
+  flex: 1;
+  float: right;
+  padding: 10px 30px 0 45px;
+}
+
+.DesTitle {
+  font-size: 30px ;
+  font-weight: bold;
+}
+
+
+.location{
+  margin-top: 25px;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
+
+.DesBotton {
+  margin-top: 80px;
+}
+
+
+.scoreRow {
+  margin: 35px 0 25px 205px;
+
+}
+.Tag {
+  height: 35px;
+  width: 75px;
+  padding-top: 5px;
+  font-size: 25px;
+  text-align: center;
+}
+.leftSpan {
+  margin-left: 5px;
+  font-size: 20px;
+  color: #3BA2F8;
+}
+.prePrice {
+  float: right;
+  font-size: 20px;
+  color: #666666;
+  text-decoration: line-through;
+}
+
+.comments {
+  float: left;
+  margin-left: 250px;
+  font-size: 18px;
+  color:#666666 ;
+}
+.price {
+  float: right;
+  font-size: 26px;
+  font-weight: bold;
+  color:#0086F6 ;
+}
+
+/* Tabs包围盒样式 */
+.TabsContainer{
+  margin-top: 20px;
+}

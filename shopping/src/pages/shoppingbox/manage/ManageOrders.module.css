@@ -1,0 +1,21 @@
+.biggestContainer {
+  background-color: #F5F7FA;
+  padding:25px
+}
+
+/* 头部 */
+.header {
+  margin-bottom: 10px;
+  height: 60px;
+  background-color: white;
+  padding: 0 30px;
+  line-height: 60px;
+  font-size: 30px;
+  color: #FF7700;
+}
+
+.listContainer {
+  background-color: white;
+  padding: 15px 30px;
+  color: #0F294D;
+}

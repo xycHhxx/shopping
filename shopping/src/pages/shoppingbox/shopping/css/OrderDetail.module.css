@@ -1,0 +1,79 @@
+.biggestContainer {
+  background-color: #F5F7FA;
+  padding:25px
+}
+
+/* 头部 */
+.header {
+  background-color: white;
+  padding: 15px 30px;
+  color: #0F294D;
+}
+
+.saveText {
+  font-size: 30px;
+  color: #0086F6;
+}
+.left {
+  margin-left: 680px;
+}
+
+/* 中部：金额+订单信息 */
+.infContainer {
+  margin-top: 10px;
+  padding: 20px 30px;
+  background-color: white;
+  color: #0F294D;
+}
+
+.priceContainer {
+  width: 300px;
+  height: 160px;
+  border-right: 1.5px solid #CED2D9;
+}
+.price {
+  margin-left: 5px;
+  font-size: 30px;
+  color:#FF7700 ;
+}
+
+.orderInf {
+  height: 160px;
+  margin: 0 40px;
+}
+.hotelName {
+  margin-bottom: 10px;
+  font-size: 20px;
+
+}
+
+/* 尾部 */
+.payContainer {
+  height: 100px;
+  margin-top: 10px;
+  padding: 20px 30px;
+  background-color: white;
+  line-height: 50px;
+}
+
+.canOrPayContainer {
+  float: right;
+  margin-top: 5px;
+}
+.cancel {
+  float: left;
+  margin: 15px 10px 0;
+  color: #0F294D;
+}
+.payButton {
+  width: 120px;
+  height: 50px;
+  background-color: #FF9500;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  border: 0px;
+  border-radius: 2px;
+
+}

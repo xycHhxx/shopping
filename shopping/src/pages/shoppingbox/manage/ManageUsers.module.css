@@ -1,0 +1,15 @@
+.biggestContainer {
+  background-color: #F5F7FA;
+  padding:25px
+}
+
+.tableContainer {
+  background-color: white;
+  padding: 15px 30px;
+  color: #0F294D;
+
+}
+
+:global(.ant-table) {
+  min-height: 312px;
+}

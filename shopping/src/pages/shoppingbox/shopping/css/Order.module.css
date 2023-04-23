@@ -1,0 +1,130 @@
+.bigestContainer {
+  background-color: #F5F7FA;
+  padding:25px 
+}
+
+/* 头部 */
+.header {
+  padding: 20px 0;
+  margin-bottom: 10px;
+  border: 1px solid transparent;
+  background-color: white;
+  color: #0F294D;
+}
+
+.hotel {
+  font-size: 25px ;
+  font-weight: bold;
+  margin:0 0 0 30px
+}
+.location {
+  margin-top: 10px;
+  margin-left: 30px;
+  font-size: 14px;
+}
+
+.roomName {
+  margin-top: 15px;
+  margin-left: 30px;
+  font-size: 16px;
+  font-weight: bold;
+}
+.roomDescribe {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+
+/* 主体部分 */
+/* 日期+房间数量 */
+.body {
+  background-color: white;
+  border: 1px solid transparent;
+
+}
+
+
+.dateAndRoomNum {
+  margin: 30px 30px 0;
+  padding-bottom: 20px;
+  border-bottom: 1.5px dashed #DADFE6;
+}
+
+.subTime {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #455873;
+}
+.dateSeparator {
+  width: 66px;
+  font-size: 14px;
+}
+
+.roomNum {
+  margin-left: 60px;
+  border-bottom: 1.5px solid #CED2D9;
+}
+
+/* 住客资料 */
+.subscriberInfContainer {
+  margin: 20px 30px 20px;
+  padding-bottom: 10px;
+  border-bottom: 1.5px dashed #DADFE6;
+}
+
+.subscriberName {
+  font-size: 22px;
+  font-weight: bold;
+  color: #0F294D;
+}
+.tip {
+  margin: 5px 0 30px;
+  font-size: 14px;
+  color: #8592A6;
+}
+
+.labels {
+  font-size: 14px;
+  color: #455888;
+}
+/* 去掉必填项默认显示的* */
+:global(.ant-form-item .ant-form-item-label >label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before) {
+  content:"";
+}
+
+.subNamInp {
+  width: 300px;
+  border: 1px solid #CED2D9;
+}
+
+
+/* 应付总额+提交订单按钮 */
+.bottonContainer {
+  margin: 0 30px 8px;
+}
+.shoulePay {
+  font-size: 25px ;
+  font-weight: bold;
+}
+.sumPrice {
+  margin-left: 10px;
+  width: 50px;
+  font-size: 26px;
+  font-weight: bold;
+  color:#0086F6 ;
+
+}
+.button {
+  /* float: right; */
+  margin: 10px 0 0 580px;
+  width: 100px;
+  height: 50px;
+  background-color: #FF9500;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  border: 0px;
+  border-radius: 2px;
+}
+
